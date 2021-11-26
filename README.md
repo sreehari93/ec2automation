@@ -41,3 +41,25 @@ validated using terraform validate
 all passed 
 instance was created using  command  terraform apply 
 
+
+got a vague idea on how to automate 
+
+automation part 
+ 
+using the main system,
+create s3 bucket using terraform (https://www.youtube.com/watch?v=_M2eUQW_zVI&t=235s)
+add static website content zip folder in it (reffered https://www.youtube.com/watch?v=3ahcgi8RqCM // have to sort for multiple files though  ) 
+
+create t3.micro ec2 instance  using terraform  (add user-data scripts of launching website using nginx server) (https://www.youtube.com/watch?v=rR8YNxHnNjw&t=251s)
+ 
+user-data scripts include :
+nginx installing and configuration 
+fetching zipped file from the s3 bucket 
+unzipping and moving the static webcontent to the nignx data folder 
+starting nginx 
+check whether the website is launched successfully  
+
+# best idea is to split terraform file to 3 parts 
+1st part : provider details 
+2nd part: creating s3 bucket and adding files into it 
+3rd part : creating aws instance with user-data script 
