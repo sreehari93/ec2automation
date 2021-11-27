@@ -63,3 +63,5 @@ check whether the website is launched successfully
 1st part : provider details 
 2nd part: creating s3 bucket and adding files into it 
 3rd part : creating aws instance with user-data script 
+
+no update today 
