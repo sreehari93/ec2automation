@@ -65,3 +65,8 @@ check whether the website is launched successfully
 3rd part : creating aws instance with user-data script 
 
 no update today 
+learned how to copy files from windows to aws instance  using scp  ( https://www.youtube.com/watch?v=qnn8iVcXJxw&t=1095s )  
+learned how to copy multiple files to s3  from a linux machine( aws instance)  using terraform  {  https://linoxide.com/upload-files-to-s3-using-terraform/  , https://www.youtube.com/watch?v=5FBspkGMV_4&t=1041s }
+
+
+
