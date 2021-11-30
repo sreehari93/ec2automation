@@ -67,7 +67,8 @@ check whether the website is launched successfully
 no update today 
 learned how to copy files from windows to aws instance  using scp  ( https://www.youtube.com/watch?v=qnn8iVcXJxw&t=1095s )  
 learned how to copy multiple files to s3  from a linux machine( aws instance)  using terraform  {  https://linoxide.com/upload-files-to-s3-using-terraform/  , https://www.youtube.com/watch?v=5FBspkGMV_4&t=1041s }
-tried to approach the concept of fetching files from s3 bucket  found some codes but was unaable to understand what each lines really do. another option found was using aws s3 cp command which lead to  aws cli concepts again was stuck on brainstorming what to do incase of automation . gave up todays whole effort . most of the codes  intention are clear but line by line understanding needs more time i guess.  
+tried to approach the concept of fetching files from s3 bucket  found some codes but was unaable to understand what each lines really do. another option found was using aws s3 cp command which lead to  aws cli concepts again was stuck on brainstorming what to do incase of automation . gave up todays whole effort . most of the codes  intention are clear but line by line understanding needs more time i guess.
+no update today 
 
 
 
