@@ -71,4 +71,8 @@ tried to approach the concept of fetching files from s3 bucket  found some codes
 no update today 
 gone through  concepts: aws cli configuration in linux , implementing cli commands using terraform , reffered terraform cli documentation , configuring pc, security groups, gateway,block volumes etc (time spent : 9 hours ) 
 
+concepts about vpc, subnets associating , cloud front , tried connecting instance configured automatically but instance failed to connect. observed that inbound rules where not set and was added to default security group as security groups was not configured .  time spent ( 4 hours)
+wont be updating anything for two days as i will be out of town.
+
+
 
