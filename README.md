@@ -215,5 +215,5 @@ resource "aws_instance" "Web" {
 }
 time spent (6 hours )
 
-
+the code i reffered was from https://github.com/vineets300/Webpage1.git
 
