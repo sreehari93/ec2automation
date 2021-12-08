@@ -217,3 +217,6 @@ time spent (6 hours )
 
 the code i reffered was from https://github.com/vineets300/Webpage1.git
 
+learned basic docker configurations in linux, dockerfiles and pulled nginx image 
+reffered: (https://www.youtube.com/watch?v=cdqbPfGkUu4&t=603s, https://www.youtube.com/watch?v=pTFZFxd4hOI, https://www.youtube.com/watch?v=LQjaJINkQXY&t=257s )
+time spent 8 hours 
