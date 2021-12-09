@@ -221,3 +221,4 @@ learned basic docker configurations in linux, dockerfiles and pulled nginx image
 reffered: (https://www.youtube.com/watch?v=cdqbPfGkUu4&t=603s, https://www.youtube.com/watch?v=pTFZFxd4hOI, https://www.youtube.com/watch?v=LQjaJINkQXY&t=257s )
 time spent 8 hours 
 containerised nginx using docker in the local machine and uploaded static website 
+static content was hosted in nginx in machine on port 80 and containerised and hosted on port 8080 .created custom ami image of the same and provisioned in terraform by editing the previous code  new code is attached naming  dockernginx.tf  
